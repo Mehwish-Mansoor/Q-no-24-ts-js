@@ -1,0 +1,13 @@
+{
+  "name": "qno24",
+  "version": "1.0.0",
+  "description": "Q no 25 of 45 Assignment",
+  "main": "qno24.js",
+  "type":  "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
